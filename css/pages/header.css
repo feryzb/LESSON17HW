@@ -1,0 +1,45 @@
+header {
+  padding: 20px 0;
+}
+
+section {
+  padding: 20px 0;
+}
+
+.navbar__container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.navbar__menus {
+  display: flex;
+}
+.navbar__list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 30px;
+  padding-right: 200px;
+}
+.navbar__link {
+  color: #4f5665;
+  display: flex;
+  align-items: center;
+}
+.btn-1 {
+  font-size: 16px;
+  background-color: #fff;
+  border: none;
+  line-height: 18px;
+}
+.btn-2 {
+  font-size: 16px;
+  background-color: #fff;
+  border: red solid 1px;
+  line-height: 18px;
+  border-radius: 15%;
+  padding: 12px;
+}
+.navbar__item {
+  gap: 20px;
+}

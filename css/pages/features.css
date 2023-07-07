@@ -1,0 +1,21 @@
+.container__features {
+  padding-top: 70px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.cloks-items {
+  gap: 90px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.item {
+  width: 354px;
+  height: 239px;
+  display: flex;
+  gap: 40px;
+  align-items: center;
+}

@@ -1,0 +1,28 @@
+.about__right,
+.about__left {
+  width: 50%;
+}
+.about__container {
+  display: flex;
+  padding-top: 120px;
+}
+.doneicon {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: nowrap;
+}
+.about__right p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 30px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+.about__right h1 {
+  font-size: 35px;
+  font-weight: 500;
+  line-height: 50px;
+  letter-spacing: 0em;
+  text-align: left;
+}
